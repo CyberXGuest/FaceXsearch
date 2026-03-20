@@ -5,7 +5,7 @@ For Kali Linux:
 
     look for the face.py script
 
-    Create requirements.txt with the dependencies
+    pip install -r requirements.txt
 
      chmod +x install.sh && ./install.sh
 
