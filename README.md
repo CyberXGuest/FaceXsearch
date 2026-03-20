@@ -3,8 +3,7 @@
 Installation Instructions:
 For Kali Linux:
 
-    look for the face.py script
-
+    git clone https://github.com/CyberXGuest/FaceXsearch.git
     pip install -r requirements.txt
 
      chmod +x install.sh && ./install.sh
